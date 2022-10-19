@@ -1,2 +1,4 @@
 Vegetation_Phase1/
 GeoData/
+out/*
+!out/plots
